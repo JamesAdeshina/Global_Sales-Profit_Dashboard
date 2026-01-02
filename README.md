@@ -10,7 +10,6 @@ Enable sales leaders, product managers, and regional stakeholders to:
 - Uncover growth opportunities  
 ...using a well-designed analytics solution.
 
----
 
 ## Project Highlights
 
@@ -20,7 +19,6 @@ Enable sales leaders, product managers, and regional stakeholders to:
 - Delivered a **structured case study** with measurable business insights and recommendations  
 - Emphasised **usability and storytelling** for both technical and non-technical audiences  
 
----
 
 ## Repository Structure
 
@@ -34,8 +32,6 @@ superstore-powerbi-dashboard/<br>
 
 
 
----
-
 ## Dashboard Preview
 
 | Overview KPIs | Regional Performance |
@@ -44,7 +40,6 @@ superstore-powerbi-dashboard/<br>
 
 Additional visuals are available in the `/dashboard/screenshots/` directory.
 
----
 
 ## Key Metrics and Features
 
@@ -63,7 +58,6 @@ Additional visuals are available in the `/dashboard/screenshots/` directory.
 **Advanced Visuals**
 - Decomposition Trees, Scatter Plots, Forecast Lines
 
----
 
 ## Case Study Summary
 
@@ -83,7 +77,7 @@ A single, dynamic Power BI dashboard offering:
 - **Office Supplies** perform poorly in the **South** with a negative margin
 - Adjusting **discount strategies** in key categories could increase profitability by **12% annually**
 
----
+
 
 ## Tools and Technologies
 
@@ -95,7 +89,7 @@ A single, dynamic Power BI dashboard offering:
 | Excel / CSV  | Data source files                       |
 | Git / GitHub | Version control and documentation       |
 
----
+
 
 ## Learning Outcomes
 
@@ -103,7 +97,7 @@ A single, dynamic Power BI dashboard offering:
 - Gained insights into **retail performance analytics**, including customer segmentation and profit optimization
 - Developed the ability to **structure and communicate technical insights** for business decision-makers
 
----
+
 
 ## Future Enhancements
 
@@ -111,7 +105,7 @@ A single, dynamic Power BI dashboard offering:
 - Add **predictive analytics** (e.g., product forecasting, churn modeling)
 - Publish to Power BI Service and enable **automated refresh schedules**
 
---- 
+
 
 ## Contact
 
